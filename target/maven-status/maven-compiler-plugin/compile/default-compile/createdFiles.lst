@@ -1,0 +1,11 @@
+org\alexkozlov\test\DataReceiverJSON.class
+org\alexkozlov\test\DataReceiver.class
+org\alexkozlov\test\configuration\OrderConfiguration.class
+org\alexkozlov\test\DataConverterJSON.class
+org\alexkozlov\test\OutputData.class
+org\alexkozlov\test\App.class
+org\alexkozlov\test\DataReceiverCreator.class
+org\alexkozlov\test\DataReceiverCSV.class
+org\alexkozlov\test\ReseiveAndConvertData.class
+org\alexkozlov\test\Order.class
+org\alexkozlov\test\DataConverter.class

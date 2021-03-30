@@ -1,0 +1,2 @@
+Запуск из командной строки 
+java -jar target\orders_parser-1.0-SNAPSHOT.jar orders1.csv orders2.json
